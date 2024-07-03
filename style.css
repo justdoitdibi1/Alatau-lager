@@ -1,0 +1,50 @@
+header{
+    height: 500px;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    color: rgba(0, 0, 0, 0.651);
+    padding: 50px;
+    font-size: 50px;
+    background-image: url(https://media.izi.travel/41e44bc3-0a87-4bab-9532-97cac2d982ab/c4549828-c5c7-4da7-bf89-6bdc2f7cf923_800x600.jpg);
+    background-size: cover;
+}
+    
+body{
+    margin: 0px;
+}    
+  main{
+    height: 600px;
+    background-color: rgb(221, 221, 221);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 44px;
+    font-size: 48px;
+    background-image:url("https://skillbox.ru/upload/setka_images/08592522042022_1cc7c7aaff1472b38801633d33e2f9e6221a290f.jpg");
+    background-size: cover;
+    
+}
+
+.mainBox{
+    height: 450px;
+    background-color: aliceblue;
+    text-align: left;
+    color: rgb(255, 255, 255);
+    padding: 50px;
+    font-size: 55px;
+}
+footer{
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+    padding: 50px;
+}
+.social img{
+    width: 100px;
+    padding-left: 10px;
+}
+.social{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+                  
